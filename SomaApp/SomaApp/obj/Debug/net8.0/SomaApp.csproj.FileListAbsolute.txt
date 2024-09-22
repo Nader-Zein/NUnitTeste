@@ -1,0 +1,14 @@
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\bin\Debug\net8.0\SomaApp.exe
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\bin\Debug\net8.0\SomaApp.deps.json
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\bin\Debug\net8.0\SomaApp.runtimeconfig.json
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\bin\Debug\net8.0\SomaApp.dll
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\bin\Debug\net8.0\SomaApp.pdb
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\obj\Debug\net8.0\SomaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\obj\Debug\net8.0\SomaApp.AssemblyInfoInputs.cache
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\obj\Debug\net8.0\SomaApp.AssemblyInfo.cs
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\obj\Debug\net8.0\SomaApp.csproj.CoreCompileInputs.cache
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\obj\Debug\net8.0\SomaApp.dll
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\obj\Debug\net8.0\refint\SomaApp.dll
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\obj\Debug\net8.0\SomaApp.pdb
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\obj\Debug\net8.0\SomaApp.genruntimeconfig.cache
+C:\Users\Nader\Documents\Analise_Projetos_Sistemas_2\Revisao_Teste\NUnit\SomaApp\SomaApp\obj\Debug\net8.0\ref\SomaApp.dll
